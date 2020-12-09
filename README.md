@@ -9,7 +9,7 @@ Prerequisites :
   https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#tensorflow-installation
   <li>Install TensorFlow Object Detection API :</li>
   https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
-  <li>LabelImg</li>
+  <li>LabelImg :</li>
    https://github.com/tzutalin/labelImg
   <li>Data used :</li>
   https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
