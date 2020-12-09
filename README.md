@@ -24,6 +24,8 @@ Steps :
 </br>
 
 Results :
+</br>
+
 <img src="/Tensorflow/workspace/images/results/detect6.png" width=300 height=300/>
 <img src="/Tensorflow/workspace/images/results/detect5.png" width=300 height=300/>
 </br>
